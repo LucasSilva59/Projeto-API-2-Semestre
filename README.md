@@ -23,7 +23,7 @@
 | 🧭 Product Owner | Derick Souta        | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/DerickSouta) |
 | 🧩 Scrum Master  |  Elias Oliveira     | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Oliveira835) |
 | 👨‍💻 Dev Team     | Jonathan Wesley      | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/JonathanWesleyFS) |
-| 👨‍💻 Dev Team     | Loren Santos         | [![GitHub Badge]() |
+| 👨‍💻 Dev Team     | Loren Santos         | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/LorenSUchoas) |
 | 👨‍💻 Dev Team     | Lucas Silva          | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/LucasSilva59) |
 | 👩‍💻 Dev Team     | Marjorie Mangelot    | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/MarjorieMangelot) |
 
@@ -78,7 +78,9 @@
 - [ ]
 - [ ] 
 - [ ] 
-- [ ] 
+
+### 🎪 Sprint 4 – [🕒Planejando]
+- [ ]
 ---
 
 ## 📅 Registro das Sprints
