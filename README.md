@@ -57,37 +57,37 @@
 ## 📋 Backlog do Produto
 
 ### 🏁 Sprint 1 – [🔃Em Andamento]
-- [] 
-- [] 
-- [] 
-- []
-- [] 
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ]
+- [ ] 
 
 ---
 
 ### 📦 Sprint 2 – [🕒Planejando]
-- [] 
-- [] 
+- [ ] 
+- [ ] 
 
 ---
 
 ### 📈 Sprint 3 – [🕒Planejando]
-- []
-- [] 
-- [] 
-- []
-- [] 
-- [] 
-- [] 
+- [ ]
+- [ ] 
+- [ ] 
+- [ ]
+- [ ] 
+- [ ] 
+- [ ] 
 ---
 
 ## 📅 Registro das Sprints
 
 | 🚚 Sprint              | 📆 Previsão   | 📌 Status | 📝 Histórico |
 |---------------------|---------------|-----------|----------------|
-| 🏁 Sprint 1            | 02/10/2025     |🔃Em Andamento | [MVP]() [GIF]() |
+| 🏁 Sprint 1            | 02/10/2025     |🔃Em Andamento | [MVP]()  |
 | 📦 Sprint 2            | 23/10/2025     |🕒Planejando | [MVP]() |
-| 📈 Sprint 3            | 13/11/2025     | 🕒Planejando | [MVP]() [GIF]() |
+| 📈 Sprint 3            | 13/11/2025     | 🕒Planejando | [MVP]()  |
 | 🎪 Feira de Soluções | 04/12/2025       | 🕒Planejando | [MVP]() |
 
 ---
