@@ -50,7 +50,7 @@ Desenvolver uma aplicação analítica para monitoramento do fluxo de cargas esp
 - Canva
 ---
 
-# 📋 Product Backlog
+# 📋 Backlog do Produto
 
 | ID | História de Usuário | Prioridade | Sprint | Status |
 |----|----------------------------------------------------------------------------------------------------------|------------|----------|---------|
