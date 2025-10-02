@@ -8,7 +8,7 @@
 * [Equipe](#-equipe)
 * [Objetivo do Projeto](#-objetivo-do-projeto)
 * [Tecnologias Utilizadas](#%EF%B8%8F-tecnologias-utilizadas)
-* [Product Backlog](#-produtc-backlog)
+* [Backlog do Produto](#-backlog-do-produto)
 * [Registro das Sprints](#-registro-das-sprints)
 
 # 🚀 Projeto (API) 
