@@ -59,8 +59,8 @@ Desenvolver uma aplicação analítica para monitoramento do fluxo de cargas esp
 | 3 | Como cliente, quero versionar todo o código e dados no GitHub. | Média | Sprint 1 | Feito |
 | 4 | Como cliente, quero visualizar acidentes envolvendo caminhões. | Alta | Sprint 2 | Feito |
 | 5 | Como cliente, quero os dados dos anos de 2018 há 2023. | Alta | Sprint 2 | Feito |
-| 6 | Como cliente, quero vizualizar produtos perigosos na base de dados do RAPP. | Média | Sprint 2 | Feito |
-| 7 | Como cliente, quero a lista dos produtos perigosos e não perigosos. | Média | Sprint 2 | Feito |
+| 6 | Como cliente, quero vizualizar produtos perigosos na base de dados do RAPP. | Alta | Sprint 2 | Feito |
+| 7 | Como cliente, quero a lista dos produtos perigosos e não perigosos. | Alta | Sprint 2 | Feito |
 | 8 |Como cliente, quero que seja considerado apenas as unidades de medidas em kilogramas e litros | Alta | Sprint 2 | Feito |
 | 9 | Como cliente, quero que as unidades de medidas toneladas e m³ sejam convertidas em kilogramas e litros  | Alta | Sprint 2 | Feito |
 | 10 | Como cliente, quero saber a origem e destino das cargas perigosas. | Alta | Sprint 2 | A fazer |
