@@ -1,18 +1,12 @@
-# 📌 MVP - [Nome do Projeto]
+# 📌 MVP - Prevlog
 
 ## 🎯 Objetivo do MVP
-> Descrever de forma clara qual é o propósito do MVP:  
-- Qual problema resolve?  
-- Qual hipótese será validada?  
-- Qual valor será entregue ao usuário final?  
+> Prover ao IPEM-SP um painel de visualização no dashboard com dados filtrados e tratados em Python sobre acidentes envolvendo cargas perigosas nas rodovias de São Paulo, permitindo a identificação das classes de risco e das vias com maior incidência.  
 
 ---
 
 ## 📝 Descrição da Solução
-> Breve explicação do que será desenvolvido e entregue nesta etapa.  
-- Funcionalidades principais incluídas  
-- Limitações conhecidas  
-- Escopo reduzido (somente o essencial para validar a ideia)  
+> Esta primeira etapa visa a transformação de dados brutos de acidentes com cargas perigosas em São Paulo em inteligência visual para o IPEM-SP. Funcionalmente, usaremos Python no Google Colab para limpar, normalizar e analisar o dataset, culminando na entrega de um Dashboard Inicial de visualizações que identificam classes de risco e rodovias críticas, tudo versionado no GitHub. A limitação conhecida é que o dataset de origem possui falhas e inconsistências (dados quebrados), e a entrega não inclui interface web ou integração de sistemas. O escopo é reduzido à prova de conceito analítica, focando apenas na rápida geração de valor para o planejamento de fiscalização.
 
 ---
 
@@ -25,37 +19,59 @@
 ## 🔑 User Stories (Backlog do MVP)
 | ID  | User Story                                                                 | Prioridade | Estimativa |
 |-----|-----------------------------------------------------------------------------|------------|------------|
-| US1 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Alta       | 5 pontos   |
-| US2 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Média      | 3 pontos   |
+| 1 | Como cliente, quero um dashboard inicial para visualização do tipo de produto, situação cadastral e etc.         | Alta       |  8 Dias   |
+| 2 | 	Como cliente, quero os dados limpos e normalizados no Google Colab.         | Alta      | 10 Dias   |
+| 3 | Como cliente, quero versionar todo o código e dados no GitHub.         | Média      | 6 Dias   |
 
 ---
 
 ## 📅 Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
-| 01     | [Funcionalidade X, Y]                        | Concluído|
-| 02     | [Funcionalidade Z]                           | Em andamento |
+| 01     | Dashboard inicial de visualização (tipo de produto, situação cadastral); Dados limpos no Google Colab; Versionamento no GitHub.                        | Concluído|
+| 02     | Visualização de acidentes com caminhões; Inclusão do período 2018-2023; Análise de produtos perigosos do RAPP; Conversão e padronização de unidades de medida (kg e L).                           | Em andamento |
+| 03     | Mapeamento de pontos críticos (próximos a áreas de descanso); Análise de origem/destino e jurisdição rodoviária; Dashboard final intuitivo; Documentação técnica e Apresentação final.                           | Em andamento |
 
 ---
 
 ## 📊 Critérios de Aceitação
-- O MVP deve permitir que o usuário [ação principal]  
-- O sistema deve registrar [evento importante]  
-- Métricas coletadas: [exemplo: tempo de resposta, taxa de uso]  
+- O MVP deve permitir que o usuário visualizar o Dashboard Inicial contendo os principais indicadores de tipo de produto e situação cadastral para a análise preliminar dos dados.  
+- O sistema deve registrar o código de limpeza no Google Colab deve ser capaz de gerar e o GitHub deve conter o arquivo de dados limpos e normalizados, pronto para uso posterior.  
+- Métricas coletadas: Taxa de Integridade, percentual de registros válidos mantidos após o processo de limpeza e normalização dos dados. Disponibilidade do Código, confirmação de que todo o código e os dados estão versionados no repositório GitHub, acessíveis e funcionais.  
 
 ---
 
 ## 📈 Métricas de Validação
-- Número de usuários que testaram o MVP  
-- Feedback qualitativo (positivo/negativo)  
-- Indicadores de negócio (exemplo: % de adesão, redução de custo, etc.)  
+- Número de usuários que testaram o MVP
+
+ 5 (Total de membros da equipe de desenvolvimento que validaram a funcionalidade).  
+- Feedback qualitativo (positivo/negativo) 
+
+100% Positivo. A equipe concordou que o MVP atende às Histórias de Usuário da Sprint 1 (Dashboard, Dados Limpos, Versionamento) e que a solução é tecnicamente viável.
+- Indicadores de negócio  
+
+**Eficiência na Pré-Análise:** Redução do tempo necessário para iniciar a análise estratégica dos dados de acidentes, uma vez que o dataset já está limpo, normalizado e com visualizações prontas.
+
+**Prontidão da Base de Dados:** Criação de uma base de dados sólida e versionada (GitHub), garantindo a continuidade do projeto nas próximas sprints sem retrabalho na limpeza inicial.
 
 ---
 
 ## 🚀 Próximos Passos
-- Melhorias planejadas após feedback  
+- Melhorias planejadas após feedback
+
+Refinamento da Filtragem: Otimizar e refatorar os scripts de Python para garantir uma filtragem de dados mais precisa e robusta. Esta melhoria visa resolver as inconsistências encontradas na Sprint 1, impactando diretamente a qualidade do dashboard.
+
 - Ajustes de usabilidade  
+
+Clareza do Dashboard: Fazer ajustes visuais no Dashboard Inicial para que a representação do "tipo de produto" e "situação cadastral" seja imediatamente intuitiva e clara para o Fiscal do IPEM-SP.
+
 - Expansão de funcionalidades para próximo incremento  
+
+**Expansão da Análise Temporal e Veicular:** Incluir os dados dos anos de 2018 a 2023 e focar na visualização de acidentes envolvendo caminhões.
+
+**Análise Logística Profunda:** Implementar a lógica de conversão de unidades de medida (toneladas e m³ para kg e litros) e iniciar a análise dos produtos perigosos utilizando a base de dados do RAPP.
+
+**Preparação para o Mapeamento:** Preparar o dataset para incluir variáveis de origem/destino e jurisdição rodoviária (municipal, estadual, federal), essenciais para o mapeamento da Sprint 3.
 
 ---
 
