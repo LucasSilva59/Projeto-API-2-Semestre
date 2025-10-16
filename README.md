@@ -57,13 +57,19 @@ Desenvolver uma aplicação analítica para monitoramento do fluxo de cargas esp
 | 1 | Como cliente, quero um dashboard inicial para visualização do tipo de produto, situação cadastral e etc. | Alta | Sprint 1 | Feito |
 | 2 | Como cliente, quero os dados limpos e normalizados no Google Colab. | Alta | Sprint 1 | Feito |
 | 3 | Como cliente, quero versionar todo o código e dados no GitHub. | Média | Sprint 1 | Feito |
-| 4 | Como cliente, quero visualizar acidentes envolvendo cargas perigosas. | Alta | Sprint 2 | A fazer |
-| 5 | Como cliente, quero saber a origem e destino das cargas perigosas. | Alta | Sprint 2 | A fazer |
-| 6 | Como cliente, quero saber se os acidentes ocorreram em rodovias municipais, estaduais ou federais. | Média | Sprint 2 | A fazer |
-| 7 | Como cliente, quero mapear os pontos críticos próximos a áreas de descanso. | Média | Sprint 2 | A fazer |
-| 8 | Como cliente, quero ter um dashboard intuitivo e visual. | Alta | Sprint 2 | A fazer |
-| 9 | Como cliente, quero receber documentação técnica completa (scripts, modelo e relatório). | Alta | Sprint 3 | A fazer |
-| 10 | Como cliente, quero a apresentação final do projeto. | Alta | Sprint 3 | A fazer |
+| 4 | Como cliente, quero visualizar acidentes envolvendo caminhões. | Alta | Sprint 2 | Feito |
+| 5 | Como cliente, quero os dados dos anos de 2018 há 2023. | Alta | Sprint 2 | Feito |
+| 6 | Como cliente, quero vizualizar produtos perigosos na base de dados do RAPP. | Média | Sprint 2 | Feito |
+| 7 | Como cliente, quero a lista dos produtos perigosos e não perigosos. | Média | Sprint 2 | Feito |
+| 8 |Como cliente, quero que seja considerado apenas as unidades de medidas em kilogramas e litros | Alta | Sprint 2 | Feito |
+| 9 | Como cliente, quero que as unidades de medidas toneladas e m³ sejam convertidas em kilogramas e litros  | Alta | Sprint 2 | Feito |
+| 10 | Como cliente, quero saber a origem e destino das cargas perigosas. | Alta | Sprint 2 | A fazer |
+| 11 | Como cliente, quero saber se os acidentes ocorreram em rodovias municipais, estaduais ou federais.| Alta | Sprint 2 | A fazer |
+| 12 |Como cliente, quero ter um dashboard intuitivo e visual. | Alta | Sprint 2 | A fazer |
+| 13 | Como cliente, quero mapear os pontos críticos próximos a áreas de descanso. | Alta | Sprint 3 | A fazer |
+| 14 | Como cliente, quero receber documentação técnica completa (scripts, modelo e relatório). | Alta | Sprint 3 | A fazer |
+| 15 | Como cliente, quero a apresentação final do projeto. | Alta | Sprint 3 | A fazer |
+
 ---
 
 ## 📅 Registro das Sprints
