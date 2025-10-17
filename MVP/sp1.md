@@ -81,6 +81,4 @@ Clareza do Dashboard: Fazer ajustes visuais no Dashboard Inicial para que a repr
 ---
 
 ## 📂 Anexos / Evidências
-- Prints de tela  
-- Fluxos ou protótipos  
-- Vídeo (MVP)  
+![Demonstração do Script Python](https://github.com/user-attachments/assets/e2bd0a89-77c8-43a9-baf5-c69fe3ce36d7)
