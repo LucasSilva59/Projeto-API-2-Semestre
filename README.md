@@ -41,6 +41,7 @@ Desenvolver uma aplicação analítica para monitoramento do fluxo de cargas esp
 
 ### 🧰 Ferramentas
 - Power BI
+- ScreenToGif
 - Python (Google Colab)
 - Pacote Office
 - Discord
