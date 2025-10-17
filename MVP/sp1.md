@@ -11,9 +11,14 @@
 ---
 
 ## 👥 Personas / Usuários-Alvo
-- **Persona 1:** breve descrição, necessidades e dores atendidas  
-- **Persona 2:** breve descrição, necessidades e dores atendidas  
-
+- **Persona 1: IPEM-SP**
+    * **Descrição:** Órgão fiscalizador que busca prevenir acidentes com cargas perigosas no estado de São Paulo.
+    * **Necessidades:** Acesso a dados centralizados sobre acidentes para otimizar a fiscalização e criar políticas de prevenção mais eficazes.
+    * **Dores Atendidas:** O projeto transforma dados dispersos em inteligência, permitindo uma fiscalização proativa e direcionando recursos para áreas de maior risco.  
+- **Persona 2: Fatec SJC. Prof. Jessen Vidal**
+    * **Descrição:** Instituição de ensino superior focada na aplicação prática do conhecimento para resolver problemas reais do mercado.
+    * **Necessidades:** Projetos reais em parceria com o mercado para que os alunos possam aplicar a teoria e ganhar experiência relevante.
+    * **Dores Atendidas:** O projeto conecta a sala de aula a um desafio real, fornece uma base de dados complexa para análise e motiva os alunos com um trabalho de impacto social.
 ---
 
 ## 🔑 User Stories (Backlog do MVP)
