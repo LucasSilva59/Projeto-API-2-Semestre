@@ -82,3 +82,11 @@ Clareza do Dashboard: Fazer ajustes visuais no Dashboard Inicial para que a repr
 
 ## 📂 Anexos / Evidências
 ![Demonstração do Script Python](https://github.com/user-attachments/assets/e2bd0a89-77c8-43a9-baf5-c69fe3ce36d7)
+
+<a href="https://app.powerbi.com/groups/me/reports/2b6b8923-e4ea-4d7a-bdb7-d0d25faae3bf?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&pbi_source=linkShare" target="_blank">
+  <img src="https://github.com/user-attachments/assets/5323ee0b-ad62-4099-9c0d-dc172833e484" alt="Visão Geral do Dashboard Power BI" width="49%">
+</a>
+
+<a href="https://app.powerbi.com/groups/me/reports/2b6b8923-e4ea-4d7a-bdb7-d0d25faae3bf?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&pbi_source=linkShare" target="_blank">
+  <img src="https://github.com/user-attachments/assets/da27a543-44ce-43ce-8997-d1ba761664db" alt="Detalhes do Dashboard Power BI" width="49%">
+</a>
