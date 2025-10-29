@@ -65,7 +65,7 @@ Desenvolver uma aplicação analítica para monitoramento do fluxo de cargas esp
 | 8 |Como cliente, quero que seja considerado apenas as unidades de medidas em kilogramas e litros | Alta | Sprint 2 | Feito |
 | 9 | Como cliente, quero que as unidades de medidas toneladas e m³ sejam convertidas em kilogramas e litros  | Alta | Sprint 2 | Feito |
 | 10 | Como cliente, quero saber a origem e destino das cargas perigosas. | Alta | Sprint 2 | A fazer |
-| 11 | Como cliente, quero saber se os acidentes ocorreram em rodovias municipais, estaduais ou federais.| Alta | Sprint 2 | A fazer |
+| 11 | Como cliente, quero saber se os acidentes ocorreram em rodovias municipais, estaduais ou federais.| Alta | Sprint 2 | Feito |
 | 12 |Como cliente, quero ter um dashboard intuitivo e visual. | Alta | Sprint 2 | A fazer |
 | 13 | Como cliente, quero mapear os pontos críticos próximos a áreas de descanso. | Alta | Sprint 3 | A fazer |
 | 14 | Como cliente, quero receber documentação técnica completa (scripts, modelo e relatório). | Alta | Sprint 3 | A fazer |
