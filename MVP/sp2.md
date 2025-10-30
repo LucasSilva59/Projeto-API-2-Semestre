@@ -72,9 +72,17 @@
 ---
 
 ## 🚀 Próximos Passos
-- Melhorias planejadas após feedback  
-- Ajustes de usabilidade  
-- Expansão de funcionalidades para próximo incremento  
+* **Melhorias planejadas após feedback:**
+    * Integrar ajustes finos no modelo de dados ou nos filtros do dashboard baseados no *feedback qualitativo* sobre a usabilidade da Matriz OD e do mapa de Hotspots.
+
+* **Ajustes de usabilidade:**
+    * Refinar a experiência do usuário (UX) do dashboard, garantindo que o layout seja intuitivo e que todas as interações e filtros carreguem rapidamente.
+    * Garantir a legenda clara para os diferentes tipos de rodovia (Municipal, Estadual, Federal) e a classificação dos produtos perigosos.
+
+* **Expansão de funcionalidades para próximo incremento (Sprint 3):**
+    * **Mapeamento de Pontos Críticos Adicionais (HU 13):** Implementar a análise geográfica para identificar pontos de risco próximos a **áreas de descanso e paradas logísticas**.
+    * **Documentação (HU 14):** Finalizar a **Documentação Técnica Completa** (incluindo scripts, modelo de dados e relatório final).
+    * **Entrega (HU 15):** Preparar o material para a **Apresentação Final** do Projeto Integrador. 
 
 ---
 
