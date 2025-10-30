@@ -87,6 +87,17 @@
 ---
 
 ## 📂 Anexos / Evidências
-- Prints de tela  
-- Fluxos ou protótipos  
-- Vídeo (MVP)  
+<p align="center">
+<!-- IMAGEM 1: VISÃO GERAL -->
+<a href="https://app.powerbi.com/links/BWr_O01iPs?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&pbi_source=linkShare" target="_blank">
+<img src="https://github.com/user-attachments/assets/416d37f0-5073-4a36-9c46-22b585dcfcb9"
+alt="Visão Geral do Dashboard Power BI"
+width="49%">
+</a>  
+
+<!-- IMAGEM 2: DETALHES DA MATRIZ OD -->
+<a href="https://app.powerbi.com/links/BWr_O01iPs?ctid=cf72e2bd-7a2b-4783-bdeb-39d57b07f76f&pbi_source=linkShare" target="_blank">
+    <img src="https://github.com/user-attachments/assets/43f0563c-cfd5-46b2-92ac-42d4e65f5732" 
+         alt="Detalhes do Dashboard Power BI" 
+         width="49%">
+</a>
