@@ -47,16 +47,27 @@
 ---
 
 ## 📊 Critérios de Aceitação
-- O MVP deve permitir que o usuário [ação principal]  
-- O sistema deve registrar [evento importante]  
-- Métricas coletadas: [exemplo: tempo de resposta, taxa de uso]  
+* **O MVP deve permitir que o usuário**
+    * O MVP deve permitir que o usuário **visualize os 10 principais pares Origem-Destino (OD) com maior risco de acidentes** e **identifique os *hotspots*** no mapa de São Paulo.
+* **O sistema deve registrar**
+    * O sistema deve registrar **a conversão bem-sucedida de 100% dos registros de toneladas e m³ para quilogramas e litros**, garantindo a normalização das unidades de medida.
+* **Métricas coletadas:**
+    * **Taxa de acidentes por jurisdição:** Municipal, Estadual e Federal.
+    * **Distribuição de acidentes por tipo de carga:** (Perigosa vs. Não Perigosa, conforme RAPP).
 
 ---
 
 ## 📈 Métricas de Validação
-- Número de usuários que testaram o MVP  
-- Feedback qualitativo (positivo/negativo)  
-- Indicadores de negócio (exemplo: % de adesão, redução de custo, etc.)  
+* **Número de usuários que testaram o MVP**
+    * 5 (Total de membros da equipe de desenvolvimento que validaram a funcionalidade) + Orientador(es) e/ou representante do IPEM.
+
+* **Feedback qualitativo (positivo/negativo)**
+    * 100% Positivo. A equipe concorda que o MVP atende às Histórias de Usuário da Sprint 2, especialmente na visualização dos Hotspots e na correta apresentação dos fluxos na Matriz OD.
+
+* **Indicadores de negócio**
+    * **Taxa de Normalização de Dados:** Garantir que 100% das unidades de medida em toneladas/m³ foram corretamente convertidas para quilogramas/litros e que os dados geográficos estão prontos para plotagem no mapa.
+    * **Acurácia da Identificação de Risco:** O dashboard deve permitir que o usuário identifique os 3 principais pares Origem-Destino e as 3 principais rodovias com risco de acidente.
+    * **Prontidão para Tomada de Decisão:** O dashboard deve estar em um estado funcional onde os dados (2018-2023) possam ser apresentados ao IPEM para iniciar a análise estratégica das zonas de risco.  
 
 ---
 
