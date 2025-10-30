@@ -101,3 +101,20 @@ width="49%">
          alt="Detalhes do Dashboard Power BI" 
          width="49%">
 </a>
+
+⬆️ Clique em uma das imagens para acessar o Power Bi.
+
+<p align="center">
+    <a href="https://fatecspgov-my.sharepoint.com/:w:/r/personal/lucas_daniel01_fatec_sp_gov_br/Documents/Listas%20Cargas%20Perigosas.docx?d=w7051c2d777394e3699f8f85b5db6f8a8&csf=1&web=1&e=IWbIcw" target="_blank">
+        <img src="https://github.com/user-attachments/assets/90a20e5c-c0e5-4077-a2cb-d0b6d09ba054" 
+             alt="Estrutura do Documento: Lista de Cargas Perigosas" 
+             width="49%">
+    </a>
+<!-- IMAGEM 2: CARGAS NÃO PERIGOSAS -->
+<a href="https://fatecspgov-my.sharepoint.com/:w:/r/personal/lucas_daniel01_fatec_sp_gov_br/Documents/Cargas%20N%C3%A3o%20Perigosas.docx?d=w5e4aee6251914d3ba794ac7d97d40b89&csf=1&web=1&e=CxhiHT" target="_blank">
+    <img src="https://github.com/user-attachments/assets/100abe44-d982-40c1-8ef6-3fe13598cba7" 
+         alt="Estrutura do Documento: Lista de Cargas Não Perigosas" 
+         width="49%">
+</a>
+
+⬆️ Clique nas imagens para acessar o documento completo.
