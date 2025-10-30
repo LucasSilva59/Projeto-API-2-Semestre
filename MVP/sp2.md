@@ -1,18 +1,12 @@
 # 📌 MVP - Prevlog
 
 ## 🎯 Objetivo do MVP
-> Descrever de forma clara qual é o propósito do MVP:  
-- Qual problema resolve?  
-- Qual hipótese será validada?  
-- Qual valor será entregue ao usuário final?  
-
+> O objetivo principal deste MVP é estabelecer a inteligência geográfica e logística do projeto, transformando dados históricos de acidentes com cargas perigosas (2018-2023) em um Dashboard Analítico Básico funcional; a sprint visa validar a precisão da conversão de unidades de medida (para quilogramas e litros) e a capacidade de mapear a Geografia do Risco, apresentando visualmente os Hotspots e a Matriz Origem-Destino (OD) para o estado de São Paulo, o que permitirá ao IPEM direcionar a fiscalização de forma proativa para as rotas e tipos de carga mais vulneráveis.  
+ 
 ---
 
 ## 📝 Descrição da Solução
-> Breve explicação do que será desenvolvido e entregue nesta etapa.  
-- Funcionalidades principais incluídas  
-- Limitações conhecidas  
-- Escopo reduzido (somente o essencial para validar a ideia)  
+> A solução entregue nesta etapa é um Dashboard de Business Intelligence (BI) para o estado de São Paulo, construído sobre o modelo de dados refinado na Sprint 1; esta solução inclui as funcionalidades cruciais de tratamento de dados, garantindo a conversão de todas as unidades de medida (toneladas e m³) para quilogramas e litros, e a visualização analítica, que compreende o Mapeamento de Hotspots de acidentes com caminhões por jurisdição rodoviária e a Matriz de Origem-Destino (OD) para as cargas perigosas, utilizando a base RAPP como filtro; esta versão inicial do dashboard será intuitiva e conterá filtros de tempo (2018-2023), mas se limitará à análise descritiva no escopo geográfico de São Paulo, sendo as análises mais avançadas e a expansão nacional reservadas para sprints posteriores.    
 
 ---
 
