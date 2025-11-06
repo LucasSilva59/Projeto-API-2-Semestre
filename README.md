@@ -79,7 +79,7 @@ Desenvolver uma aplicação analítica para monitoramento do fluxo de cargas esp
 |---------------------|---------------|-----------|----------------|
 | 🏁 Sprint 1            | 02/10/2025     |✅Concluído | [MVP](https://github.com/LucasSilva59/Projeto-API-2-Semestre/blob/main/MVP/sp1.md)  |
 | 📦 Sprint 2            | 30/10/2025     |🔃Em Andamento | [MVP](https://github.com/LucasSilva59/Projeto-API-2-Semestre/blob/main/MVP/sp2.md) |
-| 📈 Sprint 3            | 20/11/2025     | 🕒Planejando | [MVP]()  |
+| 📈 Sprint 3            | 27/11/2025     | 🕒Planejando | [MVP]()  |
 | 🎪 Feira de Soluções | 04/12/2025       | 🕒Planejando | [MVP]() |
 
 ---
