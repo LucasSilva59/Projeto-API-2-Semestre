@@ -68,8 +68,8 @@ Desenvolver uma aplicação analítica para monitoramento do fluxo de cargas esp
 | 11 | Como cliente, quero saber se os acidentes ocorreram em rodovias municipais, estaduais ou federais.| Alta | Sprint 2 | Feito |
 | 12 |Como cliente, quero ter um dashboard intuitivo e visual. | Alta | Sprint 2 | Feito |
 | 13 | Como cliente, quero uma tabela das principais oriegens e destino. | Alta | Sprint 3 | Feito |
-| 14 | Como cliente, quero uma tabela das principais rodovias em que transitam cargas perigosas. | Alta | Sprint 3 | A fazer |
-| 15 | Como cliente, quero saber as principais rotas | Alta | Sprint 3 | A fazer |
+| 14 | Como cliente, quero uma tabela das principais rodovias em que transitam cargas perigosas. | Alta | Sprint 3 | Feito |
+| 15 | Como cliente, quero saber as principais rotas | Alta | Sprint 3 | Feito |
 | 16 | Como cliente, quero pagínas separadas para o dashboard de origem, destino e o dashboard de rotas. | Alta| Sprint 3| Feito |
 
 ---
