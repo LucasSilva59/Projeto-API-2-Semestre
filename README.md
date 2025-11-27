@@ -55,7 +55,7 @@ Desenvolver uma aplicação analítica para monitoramento do fluxo de cargas esp
 
 | ID | História de Usuário | Prioridade | Sprint | Status |
 |----|----------------------------------------------------------------------------------------------------------|------------|----------|---------|
-| 1 | Como cliente, quero um dashboard inicial para visualização do tipo de produto, situação cadastral e etc. | Alta | Sprint 1 | Feito |
+| 1 | Como cliente, quero um dashboard inicial para visualização do tipo de produto. | Alta | Sprint 1 | Feito |
 | 2 | Como cliente, quero os dados limpos e normalizados no Google Colab. | Alta | Sprint 1 | Feito |
 | 3 | Como cliente, quero versionar todo o código e dados no GitHub. | Média | Sprint 1 | Feito |
 | 4 | Como cliente, quero visualizar acidentes envolvendo caminhões. | Alta | Sprint 2 | Feito |
