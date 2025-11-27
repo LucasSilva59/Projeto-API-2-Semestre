@@ -33,7 +33,7 @@
 ## 📅 Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
-| 01     | Dashboard inicial de visualização (tipo de produto, situação cadastral); Dados limpos no Google Colab; Versionamento no GitHub.                        | Concluído|
+| 01     | Dashboard inicial de visualização (tipo de produto); Dados limpos no Google Colab; Versionamento no GitHub.                        | Concluído|
 | 02     | Visualização de acidentes com caminhões; Inclusão do período 2018-2023; Análise de produtos perigosos do RAPP; Conversão e padronização de unidades de medida (kg e L).                           | Em andamento |
 | 03     | Mapeamento de pontos críticos (próximos a áreas de descanso); Análise de origem/destino e jurisdição rodoviária; Dashboard final intuitivo; Documentação técnica e Apresentação final.                           | Em andamento |
 
