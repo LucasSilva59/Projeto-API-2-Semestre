@@ -74,6 +74,10 @@
 ---
 
 ## 📂 Anexos / Evidências
-- Prints de tela  
-- Fluxos ou protótipos  
-- Vídeo (MVP)  
+Clique na imagem abaixo para assistir nosso vídeo no youtube!
+
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=kU5StsKoSsc">
+    <img src="https://img.youtube.com/vi/kU5StsKoSsc/0.jpg" alt="Assista ao vídeo no YouTube">
+  </a>
+</div>
