@@ -1,4 +1,4 @@
-# 📌 MVP - Prevlog
+# 📌 MVP - NexusLog
 
 ## 🎯 Objetivo do MVP
 > CARREGANDO   
